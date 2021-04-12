@@ -127,13 +127,16 @@ h2{
     border-radius: 100%;
 }
 .emp-img{
-    width:140px;
+    width:200px;
     margin-top: 5%;
     margin-bottom: 5%;
     border-radius: 100%;
 }
 .emp-div{
     text-align: center;
+}
+.emp-div p{
+    padding-top: 5%;
 }
 .emph1{
     margin-top: 5%;
